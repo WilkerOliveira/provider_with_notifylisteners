@@ -1,4 +1,4 @@
 # provider_with_notifylisteners
 
-A new Flutter project.
+Example using Provider with Notifylisteners
 
